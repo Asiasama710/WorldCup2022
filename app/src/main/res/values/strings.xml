@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WorldCup2022</string>
+    <string name="title">Qatar 2022</string>
+    <string name="descriptionIcone">icon</string>
+    <string name="score_reasult">1-2</string>
+    <string name="match_schedule">Match Schedule</string>
+    <string name="see_all">See all</string>
+    <string name="background">Background</string>
+    <string name="germany">Germany</string>
+    <string name="japan">Japan</string>
+</resources>
